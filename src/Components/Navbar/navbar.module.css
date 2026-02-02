@@ -1,0 +1,38 @@
+.icon{
+    width: 60px;
+    height: 60px;
+    transition: all 0.3s;
+}
+.icon:hover{
+    transform: scale(1.2);
+}
+.navbar {
+    border-bottom: #262626 solid 1px;
+}
+
+.searchIcon {
+    padding: 12px;
+    color: gray;
+    transition: all 0.3s;
+    border: unset;
+
+}
+.searchIcon:hover{
+    color:  rgb(249, 115, 22);
+     border:1px #262626 solid;
+     
+}
+
+.navLinks {
+    padding: 6px;
+   border:1px #262626 solid;
+}
+.navLink {
+    color: #a1a1a1;
+    transition: all 0.3s;
+}
+
+.navLink:hover{
+    color: white;
+}
+
